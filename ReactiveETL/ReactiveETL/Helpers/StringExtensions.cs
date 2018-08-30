@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.Text.RegularExpressions;
 using System.Web;
 

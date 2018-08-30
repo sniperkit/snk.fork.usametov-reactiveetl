@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿#region license
 // Copyright (c) 2005 - 2007 Ayende Rahien (ayende@ayende.com)
 // All rights reserved.

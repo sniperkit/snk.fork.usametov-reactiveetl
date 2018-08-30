@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 namespace ReactiveETL.Tests
 {
     using System.Collections.Generic;

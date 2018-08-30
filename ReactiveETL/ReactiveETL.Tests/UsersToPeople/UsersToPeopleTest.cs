@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ReactiveETL.Infrastructure;
 

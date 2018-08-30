@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.IO;
 using ReactiveETL.Operations.File;
 using ReactiveETL.Activators;

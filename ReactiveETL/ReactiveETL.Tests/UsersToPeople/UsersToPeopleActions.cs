@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 ﻿using System.Data;
 using System.Linq;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
